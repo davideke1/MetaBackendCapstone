@@ -8,6 +8,8 @@ django = "*"
 python-decouple = "*"
 mysqlclient = "*"
 djangorestframework = "*"
+djangorestframework-xml = "*"
+djoser = "*"
 
 [dev-packages]
 
