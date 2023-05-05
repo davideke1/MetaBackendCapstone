@@ -17,6 +17,7 @@ The address for serving the rendered static content is `127.0.0.1:8000/api/`.  S
 
 # Unit Testing
 
+the tests file test_views and test_models is found in the tests folder in the project level directory
 There are only two unit tests provided in this project.  They can be run using the following command: `python manage.py test tests`.
 
 # API Endpoints
