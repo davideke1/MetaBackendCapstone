@@ -11,3 +11,5 @@ $ http://127.0.0.1:8000/api/restaurant/booking/tables/
 $ http://127.0.0.1:8000/api/restaurant/booking/tables/{tableID}/
 $ http://127.0.0.1:8000/api/api-token-auth/  to generate tokens for authentication
 ```
+
+http://127.0.0.1:8000/api/menu/
