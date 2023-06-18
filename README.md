@@ -10,7 +10,8 @@ Api endpoints to test:
 * http://127.0.0.1:8000/api/restaurant/booking/tables/{tableID}/
 * http://127.0.0.1:8000/api/api-token-auth/  to generate tokens for authentication
 
-
+# Run project
+Ensure to create a mysql database with the name in the settings and upsate the username and password as required
 # Static Content
 
 The address for serving the rendered static content is `127.0.0.1:8000/api/`.  Static assests are referenced and rendered through the template page `index.html`.
